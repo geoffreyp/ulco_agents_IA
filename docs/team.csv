@@ -1,0 +1,8 @@
+id, name, job, cofounder
+1, Laurence Joly, Dirigeante, True
+2, Pierre Galerneau, Dirigeant, True
+3, Geoffrey Pruvost, Directeur Technique, False
+4, Michel Lecocq, Directeur Commercial, False
+5, Pedro Lourenço, Chargé d'études marketing, False
+6, Adrien Truy, Ingénieur logiciel, False
+7, Farah Touma, Ingénieure Logiciel, False
